@@ -1,0 +1,10 @@
+{
+  "cities": ["A", "B", "C", "D"],
+  "roads": [
+    {"source": "A", "destination": "B", "cost": 4},
+    {"source": "A", "destination": "C", "cost": 3},
+    {"source": "B", "destination": "C", "cost": 2},
+    {"source": "B", "destination": "D", "cost": 5},
+    {"source": "C", "destination": "D", "cost": 1}
+  ]
+}
